@@ -6,15 +6,15 @@
 
 ###
 
-<h1 align="center">👋 I am Ishan Pradhan</h1>
+<h1 align="left">👋 Hi, I'm Ishan Pradhan!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">As a student and aspiring web developer, I am woring towards becoming a skilled full-stack developer</p>
+<p align="left">As a student and aspiring web developer, I am working towards becoming a skilled full-stack developer</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
