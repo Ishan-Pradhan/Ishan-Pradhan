@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Working Towards Becoming a Skilled Full-Stack Developer</h1>
+<h1 align="center">👋 I am Ishan Pradhan</h1>
 
 ###
 
@@ -14,11 +14,13 @@
 
 ###
 
-<p align="left">As a student and aspiring web developer, I am enthusiastic about developing dynamic and interactive websites!</p>
+<p align="left">As a student and aspiring web developer, I am woring towards becoming a skilled full-stack developer</p>
 
 ###
 
-<p align="left">- 🔭 Exploring the world of coding.<br>- 📚 Learning JavaScript and web development.<br>- ⚡ Building projects in my free time.</p>
+<p align="left">- 🔭 Passionate MERN stack developer exploring the realms of coding.<br>
+    📚 Continuously learning and mastering JavaScript and web development.<br>
+    ⚡ Dedicated to crafting innovative projects in my spare time.</p>
 
 ###
 
@@ -45,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
