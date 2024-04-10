@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 Passionate MERN stack developer exploring the realms of coding.<br>
+<p align="left"> 🔭 Passionate MERN stack developer exploring the realms of coding.<br>
     📚 Continuously learning and mastering JavaScript and web development.<br>
     ⚡ Dedicated to crafting innovative projects in my spare time.</p>
 
