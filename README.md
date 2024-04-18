@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a student and aspiring web developer, I am working towards becoming a skilled full-stack developer<br><br>🔭 Passionate MERN stack developer exploring the realms of coding.<br>📚 Continuously learning and mastering JavaScript and web development.<br>⚡ Dedicated to crafting innovative projects in my spare time.
+As a student and aspiring web developer, I am working towards becoming a skilled full-stack developer.
 
 
 ## 🌐 Socials:
