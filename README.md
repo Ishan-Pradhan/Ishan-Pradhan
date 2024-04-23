@@ -7,7 +7,7 @@
 As a student and aspiring web developer, I am working towards becoming a skilled full-stack developer.
 
 
-###🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishan-Pradhan) 
 
 ### 💻 Tech Stack:
