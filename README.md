@@ -7,10 +7,10 @@
 As a student and aspiring web developer, I am working towards becoming a skilled full-stack developer.
 
 
-## 🌐 Socials:
+###🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishan-Pradhan) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
@@ -23,7 +23,7 @@ As a student and aspiring web developer, I am working towards becoming a skilled
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Pradhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
