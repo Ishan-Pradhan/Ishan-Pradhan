@@ -1,5 +1,5 @@
 
-![linked in cover 2](https://github.com/Ishan-Pradhan/Ishan-Pradhan/assets/104976681/49588dbb-9321-437b-800a-e4dd9f5c7b1a)
+![linked in 2](https://github.com/Ishan-Pradhan/Ishan-Pradhan/assets/104976681/87eab6eb-bc66-4ee6-9087-ad1987e22a2b)
 
 
 
