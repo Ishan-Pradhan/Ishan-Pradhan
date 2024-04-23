@@ -35,13 +35,9 @@ As a student and aspiring web developer, I am working towards becoming a skilled
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Pradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ishan-Pradhan&icon=0&color=6)](https://visitcount.itsvg.in)
