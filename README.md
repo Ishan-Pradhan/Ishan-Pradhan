@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-As a student and aspiring web developer, I am working towards becoming a skilled full-stack developer.
+I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in crafting scalable, efficient, and maintainable web applications. Currently, I am also pursuing my studies in Bachelor of Information Management. With a blend of theoretical knowledge and practical experience, I aim to contribute to innovative projects while constantly expanding my skill set.
 
 
 ### 🌐 Socials:
@@ -21,7 +21,8 @@ As a student and aspiring web developer, I am working towards becoming a skilled
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
 
 ### 📊 GitHub Stats:
 
