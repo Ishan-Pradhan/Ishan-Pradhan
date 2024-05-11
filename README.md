@@ -1,8 +1,4 @@
 
-![linked in 2](https://github.com/Ishan-Pradhan/Ishan-Pradhan/assets/104976681/87eab6eb-bc66-4ee6-9087-ad1987e22a2b)
-
-
-
 # 💫 About Me:
 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in crafting scalable, efficient, and maintainable web applications. Currently, I am also pursuing my studies in Bachelor of Information Management. With a blend of theoretical knowledge and practical experience, I aim to contribute to innovative projects while constantly expanding my skill set.
 
