@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in crafting scalable, efficient, and maintainable web applications. Currently, I am also pursuing my studies in Bachelor of Information Management. With a blend of theoretical knowledge and practical experience, I aim to contribute to innovative projects while constantly expanding my skill set.
+I'm deeply passionate about the MERN (MongoDB, Express.js, React.js, Node.js) stack and thrive on building scalable, efficient, and maintainable web applications. Currently, I'm also pursuing a Bachelor of Information Management degree. With a blend of theoretical knowledge and hands-on experience, my goal is to make meaningful contributions to innovative projects. I'm constantly expanding my skill set, embracing challenges, and delivering impactful solutions.
 
 
 ### 🌐 Socials:
@@ -39,9 +39,6 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer w
   <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Pradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Pradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ---
