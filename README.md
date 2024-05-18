@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=70A5FD&center=true&random=false&width=1000&lines=Full-Stack+developer+in+training;JavaScript+Explorer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-I'm deeply passionate about the MERN (MongoDB, Express.js, React.js, Node.js) stack and thrive on building scalable, efficient, and maintainable web applications. Currently, I'm also pursuing a Bachelor of Information Management degree. With a blend of theoretical knowledge and hands-on experience, my goal is to make meaningful contributions to innovative projects. I'm constantly expanding my skill set, embracing challenges, and delivering impactful solutions.
+I'm deeply passionate about the MERN (MongoDB, Express.js, React.js, Node.js) stack and thrive on building scalable, efficient, and maintainable web applications. Currently, I'm also pursuing Bachelor of Information Management degree. With a blend of theoretical knowledge and hands-on experience, my goal is to make meaningful contributions to innovative projects. I'm constantly expanding my skill set, embracing challenges, and delivering impactful solutions.
 
 
 <details>
