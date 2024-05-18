@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=1&color=70A5FD&center=true&repeat=false&random=false&width=1000&lines=Namaste!+I+am+Ishan)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=70A5FD&center=true&random=false&width=1000&lines=Full-Stack+developer+in+training;JavaScript+Explorer)](https://git.io/typing-svg)
 
 # 💫 About Me:
