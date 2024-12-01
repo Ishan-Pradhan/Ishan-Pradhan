@@ -23,7 +23,7 @@ const TechStacks = {
 
    Languages: "HTML5, CSS3, JavaScript, TypeScript, php, java",
 
-   Frameworks_and_Libraries: "React, TailwindCSS, Bootstrap, Chart.js, Express.js, Node.js, React Query, React Router, NPM, React Hook Form",
+   Frameworks_and_Libraries: "React, TailwindCSS, Chart.js, Express.js, Node.js, React Query, React Router, NPM, React Hook Form",
 
    Databases_and_CloudHosting: "GitHub pages, MongoDB, MySQL, Supabase, Vercel, Netlify",
 
