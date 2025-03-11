@@ -9,7 +9,7 @@ I'm deeply passionate about the MERN (MongoDB, Express.js, React.js, Node.js) st
 <details>
    <summary><h3>🌐 Socials</h3></summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishan-Pradhan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-pradhan72/) 
 
 </details>
 
