@@ -37,8 +37,7 @@ const TechStacks = {
 
 <details>
    <summary><h3>📊 GitHub Stats</h3></summary>
-<img src="img src="https://streak-stats.demolab.com?user=Ishan-Pradhan" alt="GitHub Streak" alt="GitHub Streak" />
-<br />
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Ishan-Pradhan)](https://git.io/streak-stats)<br />
   <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Pradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Pradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
